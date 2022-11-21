@@ -1,0 +1,41 @@
+Report created: 
+	2022-10-05	오후 4:10:34
+
+Project name: 지구.aep
+
+Source files collected to: 
+	C:\R3\Hyundoo\지구 folder
+
+Source files collected: All
+
+Collected comps:  
+	earth
+	Comp 1
+	
+Number of collected files:  3
+
+Size of collected files:  7.7 MB
+
+Collected source files: 
+	C:\Users\user\Desktop\BigEarth.jpg
+	C:\Users\user\Desktop\fair_clouds_8k.jpg
+	C:\Users\user\Desktop\pexels-photo-1252890.jpeg
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  4
+
+Effect:  CC Cylinder
+	
+Effect:  CC Sphere
+	
+Effect:  Curves
+	
+Effect:  Lens Flare
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Yj GABI”, Font style: “Bold”
+
